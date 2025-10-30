@@ -1,0 +1,16 @@
+# Goal
+bool start
+
+---
+# Result
+bool success
+string message
+float64 final_pan
+float64 final_tilt
+float64 final_zoom
+
+---
+# Feedback
+float64 current_pan
+float64 current_tilt
+float64 current_zoom
